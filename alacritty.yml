@@ -230,7 +230,7 @@ colors:
     black:   '0x969896' #'0x969896'
     red:     '0xcc6666' #'0xde935f'
     green:   '0x282a2e' #'0x282a2e'
-    yellow:  '0x373b41' #'0x373b41'
+    yellow:  '0xf0c674' #'0x373b41'
     blue:    '0x81a2be' #'0xb4b7b4'
     magenta: '0xb294bb' #'0xe0e0e0'
     cyan:    '0x8abeb7' #'0xa3685a'
